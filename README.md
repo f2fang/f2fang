@@ -8,7 +8,7 @@ I was a software engineer worked for Computer Networking area for over 10 years.
 
 Now I am a Master Computer Science student in SJSU.
 
-* ✉️  You can contact me at [hzieeff@gmail.com](mailto:hzieeff@gmail.com)
+* ✉️  You can contact me at [hzieeff@gmail.com](mailto:hzieeff@gmail.com) or [fang.fang@sjsu.edu](mailto:fang.fang@sjsu.edu)
 * 🧠  I'm learning Machine Learning
 * 🤝  I'm open to collaborating on Projects
 
