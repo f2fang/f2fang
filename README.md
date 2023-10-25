@@ -4,9 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-I had been a software engineer worked for Computer Networking area for over 10 years. 
-
-Now I am a Master Computer Science student in SJSU.
+I have worked as a software engineer in the computer networking field for over 10 years. 
+Currently, I am pursuing a Master's in Computer Science at SJSU.
 
 * ✉️  You can contact me at [hzieeff@gmail.com](mailto:hzieeff@gmail.com) or [fang.fang@sjsu.edu](mailto:fang.fang@sjsu.edu)
 * 🧠  I'm learning Machine Learning
