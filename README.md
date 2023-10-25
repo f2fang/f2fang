@@ -5,6 +5,7 @@ Software Engineer
 -----------------
 
 I have worked as a software engineer in the computer networking field for over 10 years. 
+
 Currently, I am pursuing a Master's in Computer Science at SJSU.
 
 * ✉️  You can contact me at [hzieeff@gmail.com](mailto:hzieeff@gmail.com) or [fang.fang@sjsu.edu](mailto:fang.fang@sjsu.edu)
