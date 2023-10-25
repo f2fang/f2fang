@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-I was a software engineer worked for Computer Networking area for over 10 years. 
+I had been a software engineer worked for Computer Networking area for over 10 years. 
 
 Now I am a Master Computer Science student in SJSU.
 
