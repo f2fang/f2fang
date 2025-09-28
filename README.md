@@ -26,17 +26,18 @@ Currently, I am pursuing a Master's in Computer Science at SJSU.
 
 ### Badges
 
-<b>My GitHub Stats</b>
 
 <b>My GitHub Stats</b>
 
+<!-- 只作外观，不显示任何计数行 -->
 <a href="https://github.com/f2fang">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=f2fang&show_icons=true&count_private=true&include_all_commits=true&hide=contribs,prs,issues&hide_rank=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&cache_seconds=1800&v=3"
-    alt="f2fang's GitHub stats"
+    src="https://github-readme-stats.vercel.app/api?username=f2fang&show_icons=true&count_private=true&hide=commits,prs,issues,contribs&hide_rank=true&custom_title=Fang%20Fang%20Profile&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&cache_seconds=1800&v=4"
+    alt="overview"
   />
 </a>
 
+<!-- streak 直接读你的贡献日历（最接近真实） -->
 <a href="https://github.com/f2fang">
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=f2fang&hide_border=true&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff"
@@ -44,13 +45,15 @@ Currently, I am pursuing a Master's in Computer Science at SJSU.
   />
 </a>
 
+<!-- 最近贡献曲线：基于贡献日历 -->
 <a href="https://github.com/f2fang">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=f2fang&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph&v=2"
-    alt="GitHub Commits Graph"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=f2fang&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Contributions%20(Last%2030%20days)&days=30&v=3"
+    alt="GitHub Contributions Graph"
   />
 </a>
 
+<!-- 语言统计保留 -->
 <a href="https://github.com/f2fang" align="left">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=f2fang&layout=compact&langs_count=10&title_color=0891b2&text_color=ffffff&bg_color=1c1917&hide_border=true"
